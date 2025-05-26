@@ -1,0 +1,15 @@
+# Platform and IDE-generated files
+.DS_Store
+.idea
+.project
+.pydevproject
+.vscode
+.devcontainer
+.venv
+
+*.bak
+# Python-related ignores
+*.pyc
+*.pyo
+
+db.sqlite3
